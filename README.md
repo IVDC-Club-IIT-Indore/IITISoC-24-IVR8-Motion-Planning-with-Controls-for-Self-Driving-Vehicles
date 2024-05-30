@@ -6,7 +6,8 @@ To develop a reliable Motion Planner with Control algorithms for collision-free 
 People Involved : 
 
 Mentors:
-- [Arjun S Nair](https://github.com/arjun-593) 
+- [Arjun S Nair](https://github.com/arjun-593)
+- [Ampady B R](https://github.com/ampady06)
 
 Members:
 <br>
