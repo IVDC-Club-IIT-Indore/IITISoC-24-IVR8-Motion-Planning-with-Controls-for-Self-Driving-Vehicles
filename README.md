@@ -10,5 +10,6 @@ Mentors:
 - [Ampady B R](https://github.com/ampady06)
 
 Members:
+- [Zaryan Ali Ansari](https://github.com/ghostzaryan)
 <br>
 
