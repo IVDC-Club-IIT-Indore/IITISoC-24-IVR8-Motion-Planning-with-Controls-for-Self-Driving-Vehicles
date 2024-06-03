@@ -11,5 +11,6 @@ Mentors:
 
 Members:
 - [Zaryan Ali Ansari](https://github.com/ghostzaryan)
+- [Manan Nigam](https://github.com/MananNigam)
 <br>
 
