@@ -1,0 +1,4 @@
+[console_scripts]
+astar_path_planner = astar_path_planner:main
+rrtstar_path_planner = rrtstar_path_planner:main
+
